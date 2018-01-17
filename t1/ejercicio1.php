@@ -14,5 +14,4 @@ $min=$numero;
  }
  echo " Maxima " .$max;
  echo " Minimo " .$min;
- echo "esto es un prueba";
  ?>
